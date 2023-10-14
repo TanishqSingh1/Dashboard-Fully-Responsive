@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Dashboard-Fully-Responsive/static/css/main.8e0854d9.css",
+    "main.js": "/Dashboard-Fully-Responsive/static/js/main.f8b433da.js",
+    "static/js/787.7845ce46.chunk.js": "/Dashboard-Fully-Responsive/static/js/787.7845ce46.chunk.js",
+    "static/media/tanishq_photo.jpg": "/Dashboard-Fully-Responsive/static/media/tanishq_photo.20aec092d0ee0a884335.jpg",
+    "static/media/promotions.png": "/Dashboard-Fully-Responsive/static/media/promotions.d2df11b8ebdf17bf68b3.png",
+    "static/media/money.png": "/Dashboard-Fully-Responsive/static/media/money.a4f4c80c02e5f618949e.png",
+    "static/media/wallet2.png": "/Dashboard-Fully-Responsive/static/media/wallet2.7bd5ec30478ff2dac4f8.png",
+    "static/media/wallet.png": "/Dashboard-Fully-Responsive/static/media/wallet.107621bb7942581e0c91.png",
+    "static/media/avatar.png": "/Dashboard-Fully-Responsive/static/media/avatar.d4f31b442192005dcd6f.png",
+    "static/media/shopping-bag.png": "/Dashboard-Fully-Responsive/static/media/shopping-bag.3d0e887b0b7e4c3e9a23.png",
+    "static/media/yellow_img.jpg": "/Dashboard-Fully-Responsive/static/media/yellow_img.8fcb81f06cc0e6937457.jpg",
+    "static/media/chat.png": "/Dashboard-Fully-Responsive/static/media/chat.b0c7ac4c526cd66393fe.png",
+    "static/media/lists.png": "/Dashboard-Fully-Responsive/static/media/lists.f3d1bc99de6fbf45c292.png",
+    "static/media/key.png": "/Dashboard-Fully-Responsive/static/media/key.35fe40599d36acbaed77.png",
+    "static/media/nut.png": "/Dashboard-Fully-Responsive/static/media/nut.9dde81d1efb75a7d95d9.png",
+    "static/media/search-symbol.png": "/Dashboard-Fully-Responsive/static/media/search-symbol.0a21c0c59c79c8d2fc15.png",
+    "index.html": "/Dashboard-Fully-Responsive/index.html",
+    "main.8e0854d9.css.map": "/Dashboard-Fully-Responsive/static/css/main.8e0854d9.css.map",
+    "main.f8b433da.js.map": "/Dashboard-Fully-Responsive/static/js/main.f8b433da.js.map",
+    "787.7845ce46.chunk.js.map": "/Dashboard-Fully-Responsive/static/js/787.7845ce46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e0854d9.css",
+    "static/js/main.f8b433da.js"
+  ]
+}
