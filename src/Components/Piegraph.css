@@ -1,0 +1,44 @@
+.piegraph{
+    height: 280px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 50px;
+    border: 3px solid transparent;
+}
+.piegraph:hover{
+    border: 3px solid #ccf2ff;
+}
+.piegraph h6{
+    color: grey;
+    padding-left:  20px;
+}
+.piegraph h3{
+    padding: 12px 0px 0px 20px;
+}
+.piegraph1{
+    height:160px ;
+    width: 160px;
+    padding-left:75px;
+}
+.pie_text1{
+    position:relative ;
+    top: 80px;
+    left:138px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pie_text2{
+    position:relative ;
+    top: 92px;
+    left:96px;
+    font-size: 10px;
+    font-weight: bold;
+}
+.pie_text3{
+    position:relative ;
+    top: 9px;
+    right: 48px;
+    font-size: 10px;
+    font-weight: bold;
+}

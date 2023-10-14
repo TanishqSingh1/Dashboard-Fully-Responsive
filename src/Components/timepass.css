@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+}
+
+.slide {
+    height: 100vh;
+    width: 20%;
+    background-color: rgba(4,4,64,255);
+    border: 1px solid transparent;
+}
+
+.slide_custom {
+    margin: 50px;
+    color: rgba(132,137,168,255);  /* rgba(201,202,218,255) */
+    display: flex;
+    align-items: center;
+    border: 2px solid transparent;
+}
+.tani{
+    background-color: aliceblue;
+    border: 2px solid yellow;
+    margin-left:20px ;
+}
+.tani :hover{
+    background-color:rgba(45,45,105,255);
+    /* border:2px solid rgba(45,45,105,255); */
+    /* border-radius: 5px; */
+    
+}
+.dashboard{
+    color: rgba(201,202,218,255);
+}
+.icon_style{
+    background-size: 60% 60%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 19px; 
+    height: 19px;
+    margin:0px 10px 0px 10px;
+    border: 3px solid rgba(201,202,218,255) ;
+    border-radius: 5px;
+    padding: 3px;
+}
+.icon_style_other{
+    width: 28px; 
+    height: 28px;
+    background-size: cover;
+    margin:0px 10px 0px 10px;
+}
+.icon1 {
+    background-image: url('../Images/key.png');
+  }
+.icon2 {
+    background-image: url('../Images/3d-cube.png');
+  }
+.icon3 {
+    background-image: url('../Images/avatar.png');
+  }
+.icon4 {
+    background-image: url('../Images/wallet.png');
+  }
+.icon5 {
+    background-image: url('../Images/promotions.png');
+  }
+.icon6 {
+    background-image: url('../Images/chat.png');
+  }
+.icon7 {
+    background-image: url('../Images/nut.png');
+    height: 40px;
+    width: 40px;
+  }
+.marg{
+    margin-top: 100px;
+}

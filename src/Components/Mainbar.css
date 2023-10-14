@@ -1,0 +1,91 @@
+.mainbar{
+    background-color:#e6e7e9;
+    height:955px;
+    width:100%;
+    padding-top: 24px;
+}
+.mainbar_custom{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mainbar_custom h3:hover{
+    font-size: 20px;
+}
+.mainbar_custom_search{
+    display: flex;
+    margin-left: 600px;
+}
+.icon_search{
+    background-image: url('../Images/search-symbol.png');
+    background-size: cover;
+    height: 20px;
+    width: 20px;
+    margin: 2px;
+}
+.tan{
+    background-color: white;
+    height: 25px;
+    width: 25px;
+    border: 2px solid white;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.tan:hover{
+    background-color: rgb(218, 214, 214);
+}
+.input_search{
+    height: 26px;
+    width: 180px;
+    border: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.mainbar2{
+    display: flex;
+    justify-content: space-evenly;
+    margin:30px 35px;
+}
+.icon_custom{
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+}
+.mainbar_icon1{
+    background-image: url('../Images/money.png');
+}
+.mainbar_icon2{
+    background-image: url('../Images/lists.png');
+}
+.mainbar_icon3{
+    background-image: url('../Images/wallet2.png');
+}
+.mainbar_icon4{
+    background-image: url('../Images/shopping-bag.png');
+}
+
+
+.icon_flex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+    height: 140px;
+    width: 260px;
+    border-radius: 10px;
+}
+.icon_custom:hover{
+    height: 105px;
+    width: 105px;
+}
+.icon_flex:hover{
+    border: 3px solid #ccf2ff;
+}
+.icon_flex h6{
+    color:grey;
+}
+.icon_flex g{
+    color:#19b159;
+}
+.icon_flex r{
+    color:red;
+}

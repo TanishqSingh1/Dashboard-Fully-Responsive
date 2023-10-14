@@ -1,0 +1,31 @@
+.bar_custom{
+    background-color: white;
+    width: 780px;
+    border-radius: 10px;
+    margin-left: 65px;
+    border: 3px solid transparent;
+}
+.bar_custom:hover{
+    border: 3px solid #ccf2ff;
+}
+.bar_custom h6{
+    color: grey;
+    padding:0px 0px 2px 20px;
+}
+.bar_custom h3{
+    padding: 12px 0px 0px 20px;
+}
+.custom-tooltip{
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 10px; 
+}
+.recharts-bar-rect:hover {
+    transform-origin: center;
+    transform: scale(1.05);
+  transition: transform 0.2s;    
+}  
+.recharts-tooltip-cursor {
+    display: none;
+  }
+  
