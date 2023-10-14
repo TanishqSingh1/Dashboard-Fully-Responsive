@@ -13,5 +13,5 @@ kindly follow these Steps:
 
 
 CODED BY:
-    TANISH1 SINGH
+    TANISHQ SINGH
     Contact: tanishq012002@gmail.com
