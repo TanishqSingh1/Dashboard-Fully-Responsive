@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dashboard-Fully-Responsive/static/css/main.8e0854d9.css",
-    "main.js": "/Dashboard-Fully-Responsive/static/js/main.f8b433da.js",
+    "main.js": "/Dashboard-Fully-Responsive/static/js/main.22ddb917.js",
     "static/js/787.7845ce46.chunk.js": "/Dashboard-Fully-Responsive/static/js/787.7845ce46.chunk.js",
     "static/media/tanishq_photo.jpg": "/Dashboard-Fully-Responsive/static/media/tanishq_photo.20aec092d0ee0a884335.jpg",
     "static/media/promotions.png": "/Dashboard-Fully-Responsive/static/media/promotions.d2df11b8ebdf17bf68b3.png",
@@ -18,11 +18,11 @@
     "static/media/search-symbol.png": "/Dashboard-Fully-Responsive/static/media/search-symbol.0a21c0c59c79c8d2fc15.png",
     "index.html": "/Dashboard-Fully-Responsive/index.html",
     "main.8e0854d9.css.map": "/Dashboard-Fully-Responsive/static/css/main.8e0854d9.css.map",
-    "main.f8b433da.js.map": "/Dashboard-Fully-Responsive/static/js/main.f8b433da.js.map",
+    "main.22ddb917.js.map": "/Dashboard-Fully-Responsive/static/js/main.22ddb917.js.map",
     "787.7845ce46.chunk.js.map": "/Dashboard-Fully-Responsive/static/js/787.7845ce46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e0854d9.css",
-    "static/js/main.f8b433da.js"
+    "static/js/main.22ddb917.js"
   ]
 }
